@@ -26,6 +26,7 @@ code {
 .github { color: #333333; }
 .twitter { color: #00aced; }
 .google-plus { color: #dd4b39; }
+.speaker-deck { color: #329966; }
 
 a:hover.github { color: #191919; }
 a:hover.twitter { color: #009AD4; }
